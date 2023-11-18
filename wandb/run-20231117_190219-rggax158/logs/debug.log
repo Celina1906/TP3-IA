@@ -1,0 +1,32 @@
+2023-11-17 19:02:19,931 INFO    MainThread:18912 [wandb_setup.py:_flush():76] Current SDK version is 0.16.0
+2023-11-17 19:02:19,931 INFO    MainThread:18912 [wandb_setup.py:_flush():76] Configure stats pid to 18912
+2023-11-17 19:02:19,931 INFO    MainThread:18912 [wandb_setup.py:_flush():76] Loading settings from C:\Users\celin\.config\wandb\settings
+2023-11-17 19:02:19,931 INFO    MainThread:18912 [wandb_setup.py:_flush():76] Loading settings from c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\settings
+2023-11-17 19:02:19,931 INFO    MainThread:18912 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-11-17 19:02:19,931 INFO    MainThread:18912 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-11-17 19:02:19,932 INFO    MainThread:18912 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2023-11-17 19:02:19,932 INFO    MainThread:18912 [wandb_init.py:_log_setup():524] Logging user logs to c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231117_190219-rggax158\logs\debug.log
+2023-11-17 19:02:19,932 INFO    MainThread:18912 [wandb_init.py:_log_setup():525] Logging internal logs to c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231117_190219-rggax158\logs\debug-internal.log
+2023-11-17 19:02:19,933 INFO    MainThread:18912 [wandb_init.py:init():564] calling init triggers
+2023-11-17 19:02:19,933 INFO    MainThread:18912 [wandb_init.py:init():571] wandb.init called with sweep_config: {}
+config: {}
+2023-11-17 19:02:19,933 INFO    MainThread:18912 [wandb_init.py:init():614] starting backend
+2023-11-17 19:02:19,933 INFO    MainThread:18912 [wandb_init.py:init():618] setting up manager
+2023-11-17 19:02:19,941 INFO    MainThread:18912 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn, using: spawn
+2023-11-17 19:02:19,943 INFO    MainThread:18912 [wandb_init.py:init():624] backend started and connected
+2023-11-17 19:02:19,953 INFO    MainThread:18912 [wandb_run.py:_label_probe_notebook():1294] probe notebook
+2023-11-17 19:02:19,953 INFO    MainThread:18912 [wandb_run.py:_label_probe_notebook():1304] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2023-11-17 19:02:19,953 INFO    MainThread:18912 [wandb_init.py:init():716] updated telemetry
+2023-11-17 19:02:19,954 INFO    MainThread:18912 [wandb_init.py:init():749] communicating run to backend with 90.0 second timeout
+2023-11-17 19:03:50,647 ERROR   MainThread:18912 [wandb_init.py:init():775] encountered error: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2023-11-17 19:03:52,665 ERROR   MainThread:18912 [wandb_init.py:init():1184] Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+Traceback (most recent call last):
+  File "c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\wandb\sdk\wandb_init.py", line 1166, in init
+    run = wi.init()
+          ^^^^^^^^^
+  File "c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\wandb\sdk\wandb_init.py", line 781, in init
+    raise error
+wandb.errors.CommError: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
