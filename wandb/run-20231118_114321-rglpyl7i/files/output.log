@@ -1,0 +1,197 @@
+
+[34m[1mwandb[39m[22m: [33mWARNING[39m The save_model argument by default saves the model in the HDF5 format that cannot save custom objects like subclassed models and custom layers. This behavior will be deprecated in a future release in favor of the SavedModel format. Meanwhile, the HDF5 model is saved as W&B files and the SavedModel as W&B Artifacts.
+Epoch 1/40
+   1/1012 [..............................] - ETA: 24s - loss: 810702.6875WARNING:tensorflow:Callback method `on_train_batch_end` is slow compared to the batch time (batch time: 0.0016s vs `on_train_batch_end` time: 0.0032s). Check your callbacks.
+
+ 985/1012 [============================>.] - ETA: 0s - loss: 2136632.7500INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114321-rglpyl7i\files\model-best\assets
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114321-rglpyl7i\files\model-best\assets
+[34m[1mwandb[39m[22m: Adding directory to artifact (c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114321-rglpyl7i\files\model-best)... Done. 0.0s
+1012/1012 [==============================] - 3s 3ms/step - loss: 2131931.7500 - val_loss: 1965786.5000
+Epoch 2/40
+1002/1012 [============================>.] - ETA: 0s - loss: 2133246.0000INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114321-rglpyl7i\files\model-best\assets
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114321-rglpyl7i\files\model-best\assets
+[34m[1mwandb[39m[22m: Adding directory to artifact (c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114321-rglpyl7i\files\model-best)... Done. 0.0s
+1012/1012 [==============================] - 3s 3ms/step - loss: 2131598.0000 - val_loss: 1964527.6250
+Epoch 3/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2129587.5000 - val_loss: 1965387.8750
+Epoch 4/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2129369.5000 - val_loss: 1965334.1250
+Epoch 5/40
+ 863/1012 [========================>.....] - ETA: 0s - loss: 2143193.2500
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114321-rglpyl7i\files\model-best\assets
+
+1001/1012 [============================>.] - ETA: 0s - loss: 2134347.5000INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114321-rglpyl7i\files\model-best\assets
+1012/1012 [==============================] - 3s 3ms/step - loss: 2127997.7500 - val_loss: 1964229.2500
+Epoch 6/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2126632.7500 - val_loss: 1965028.2500
+Epoch 7/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2126811.2500 - val_loss: 1965059.6250
+Epoch 8/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2125975.7500 - val_loss: 1965977.8750
+Epoch 9/40
+ 318/1012 [========>.....................] - ETA: 1s - loss: 2150415.0000
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+
+ 988/1012 [============================>.] - ETA: 0s - loss: 2128522.2500
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114321-rglpyl7i\files\model-best\assets
+
+ 988/1012 [============================>.] - ETA: 0s - loss: 2128522.2500INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114321-rglpyl7i\files\model-best\assets
+1012/1012 [==============================] - 3s 3ms/step - loss: 2124994.0000 - val_loss: 1963695.2500
+Epoch 10/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2124250.0000 - val_loss: 1966269.5000
+Epoch 11/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2124033.2500 - val_loss: 1971852.5000
+Epoch 12/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2123039.0000 - val_loss: 1967017.0000
+Epoch 13/40
+ 912/1012 [==========================>...] - ETA: 0s - loss: 2107992.7500
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+
+ 985/1012 [============================>.] - ETA: 0s - loss: 2108346.2500INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114321-rglpyl7i\files\model-best\assets
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114321-rglpyl7i\files\model-best\assets
+[34m[1mwandb[39m[22m: Adding directory to artifact (c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114321-rglpyl7i\files\model-best)... Done. 0.0s
+1012/1012 [==============================] - 3s 3ms/step - loss: 2122346.2500 - val_loss: 1963302.2500
+Epoch 14/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2122015.2500 - val_loss: 1963971.2500
+Epoch 15/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2121733.7500 - val_loss: 1970343.0000
+Epoch 16/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2121379.7500 - val_loss: 1972908.6250
+Epoch 17/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2121648.7500 - val_loss: 1964466.7500
+Epoch 18/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2122179.7500 - val_loss: 1965025.2500
+Epoch 19/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2119336.7500 - val_loss: 1963820.7500
+Epoch 20/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2119665.2500 - val_loss: 1965919.7500
+Epoch 21/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2119051.5000 - val_loss: 1967028.1250
+Epoch 22/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2119922.7500 - val_loss: 1964134.0000
+Epoch 23/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2118038.2500 - val_loss: 1964191.1250
+Epoch 24/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2119161.0000 - val_loss: 1966662.2500
+Epoch 25/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2119257.0000 - val_loss: 1965656.8750
+Epoch 26/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2119113.5000 - val_loss: 1967130.6250
+Epoch 27/40
+ 638/1012 [=================>............] - ETA: 0s - loss: 2073507.8750
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114321-rglpyl7i\files\model-best\assets
+
+1010/1012 [============================>.] - ETA: 0s - loss: 2113067.2500INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114321-rglpyl7i\files\model-best\assets
+1012/1012 [==============================] - 3s 3ms/step - loss: 2119756.5000 - val_loss: 1963246.2500
+Epoch 28/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2117710.0000 - val_loss: 1967348.8750
+Epoch 29/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2117306.5000 - val_loss: 1965283.6250
+Epoch 30/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2119835.5000 - val_loss: 1964182.7500
+Epoch 31/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2117433.0000 - val_loss: 1972964.2500
+Epoch 32/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2118928.0000 - val_loss: 1963595.1250
+Epoch 33/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2117329.2500 - val_loss: 1966755.1250
+Epoch 34/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2117576.0000 - val_loss: 1964174.2500
+Epoch 35/40
+ 643/1012 [==================>...........] - ETA: 0s - loss: 2118354.2500
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114321-rglpyl7i\files\model-best\assets
+
+ 976/1012 [===========================>..] - ETA: 0s - loss: 2114123.2500INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114321-rglpyl7i\files\model-best\assets
+1012/1012 [==============================] - 2s 2ms/step - loss: 2117521.0000 - val_loss: 1962349.6250
+Epoch 36/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2117716.0000 - val_loss: 1963584.0000
+Epoch 37/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2118125.7500 - val_loss: 1966539.7500
+Epoch 38/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2116142.7500 - val_loss: 1962610.6250
+Epoch 39/40
+1012/1012 [==============================] - 2s 2ms/step - loss: 2117416.2500 - val_loss: 1962886.7500
+Epoch 40/40
+ 993/1012 [============================>.] - ETA: 0s - loss: 2123169.2500
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114321-rglpyl7i\files\model-best\assets
+
+ 993/1012 [============================>.] - ETA: 0s - loss: 2123169.2500INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114321-rglpyl7i\files\model-best\assets
+1012/1012 [==============================] - 2s 2ms/step - loss: 2117649.2500 - val_loss: 1962158.1250
+Epoch 1/50
+1012/1012 [==============================] - 3s 2ms/step - loss: 21571444.0000 - val_loss: 4606487.0000
+Epoch 2/50
+1012/1012 [==============================] - 2s 2ms/step - loss: 2976749.2500 - val_loss: 2181857.7500
+Epoch 3/50
+1012/1012 [==============================] - 2s 2ms/step - loss: 2545071.5000 - val_loss: 2106517.0000
+Epoch 4/50
+1012/1012 [==============================] - 2s 2ms/step - loss: 2467342.0000 - val_loss: 2068677.6250
+Epoch 5/50
+1012/1012 [==============================] - 2s 2ms/step - loss: 2416085.0000 - val_loss: 2055845.5000
+Epoch 6/50
+Epoch 7/50[==============================] - 2s 2ms/step - loss: 2382174.0000 - val_loss: 2040351.7500
+Epoch 7/50[==============================] - 2s 2ms/step - loss: 2382174.0000 - val_loss: 2040351.7500
+ 289/1012 [=======>......................] - ETA: 1s - loss: 2740831.25000000 - val_loss: 2018360.3750
+Epoch 8/50
+ 255/1012 [======>.......................] - ETA: 1s - loss: 2273627.75005000 - val_loss: 2013888.8750
+Epoch 9/50
+  70/1012 [=>............................] - ETA: 1s - loss: 2042040.25000000 - val_loss: 2007789.2500
+Epoch 10/50
+  38/1012 [>.............................] - ETA: 1s - loss: 3994149.50002500 - val_loss: 2006651.2500
+Epoch 11/50
+   1/1012 [..............................] - ETA: 3s - loss: 923305.1250.5000 - val_loss: 2003256.5000
+Epoch 12/50
+   1/1012 [..............................] - ETA: 0s - loss: 1990103.37505000 - val_loss: 1998135.1250
+Epoch 13/50
+ 984/1012 [============================>.] - ETA: 0s - loss: 2271691.75005000 - val_loss: 1998135.1250
+1011/1012 [============================>.] - ETA: 0s - loss: 2259774.25002500 - val_loss: 1995812.6250
+1002/1012 [============================>.] - ETA: 0s - loss: 2253294.00007500 - val_loss: 1995765.1250
+ 996/1012 [============================>.] - ETA: 0s - loss: 2242134.50007500 - val_loss: 1990840.3750
+1005/1012 [============================>.] - ETA: 0s - loss: 2237246.75002500 - val_loss: 1990135.6250
+1009/1012 [============================>.] - ETA: 0s - loss: 2227338.00000000 - val_loss: 1987449.0000
+ 882/1012 [=========================>....] - ETA: 0s - loss: 2233816.50002500 - val_loss: 1985956.6250
+ 866/1012 [========================>.....] - ETA: 0s - loss: 2205865.00005000 - val_loss: 1984024.5000
+ 820/1012 [=======================>......] - ETA: 0s - loss: 2252309.75005000 - val_loss: 1982833.7500
+ 803/1012 [======================>.......] - ETA: 0s - loss: 2234397.0000 000 - val_loss: 1993791.7500
+ 864/1012 [========================>.....] - ETA: 0s - loss: 2190510.50005000 - val_loss: 1980442.2500
+ 849/1012 [========================>.....] - ETA: 0s - loss: 2148126.75007500 - val_loss: 1979880.1250
+ 856/1012 [========================>.....] - ETA: 0s - loss: 2149263.2500 000 - val_loss: 1979043.2500
+ 829/1012 [=======================>......] - ETA: 0s - loss: 2114130.25000000 - val_loss: 1976085.0000
+ 826/1012 [=======================>......] - ETA: 0s - loss: 2213320.25005000 - val_loss: 1976004.2500
+ 859/1012 [========================>.....] - ETA: 0s - loss: 2178561.75002500 - val_loss: 1975446.1250
+ 850/1012 [========================>.....] - ETA: 0s - loss: 2188376.50007500 - val_loss: 1974587.3750
+ 882/1012 [=========================>....] - ETA: 0s - loss: 2150195.25002500 - val_loss: 1980119.6250
+ 865/1012 [========================>.....] - ETA: 0s - loss: 2187032.50000000 - val_loss: 1972730.5000
+ 837/1012 [=======================>......] - ETA: 0s - loss: 2175119.00000000 - val_loss: 1983035.0000
+ 755/1012 [=====================>........] - ETA: 0s - loss: 2172702.00005000 - val_loss: 1971053.1250
+ 725/1012 [====================>.........] - ETA: 0s - loss: 2168487.2500 000 - val_loss: 1971190.1250
+ 720/1012 [====================>.........] - ETA: 0s - loss: 2181320.50007500 - val_loss: 1970824.1250
+ 741/1012 [====================>.........] - ETA: 0s - loss: 2118718.50000000 - val_loss: 1969756.5000
+ 728/1012 [====================>.........] - ETA: 0s - loss: 2156200.00007500 - val_loss: 1969868.8750
+ 719/1012 [====================>.........] - ETA: 0s - loss: 2152776.00002500 - val_loss: 1972542.7500
+ 722/1012 [====================>.........] - ETA: 0s - loss: 2135425.00002500 - val_loss: 1984608.8750
+ 761/1012 [=====================>........] - ETA: 0s - loss: 2085140.87507500 - val_loss: 1968604.2500
+ 771/1012 [=====================>........] - ETA: 0s - loss: 2132250.00005000 - val_loss: 1972199.5000
+ 639/1012 [=================>............] - ETA: 0s - loss: 2111988.00007500 - val_loss: 1969326.8750
+ 609/1012 [=================>............] - ETA: 0s - loss: 2144447.00000000 - val_loss: 1967599.1250
+ 591/1012 [================>.............] - ETA: 0s - loss: 2142420.75002500 - val_loss: 1966450.2500
+ 309/1012 [========>.....................] - ETA: 1s - loss: 2162203.75002500 - val_loss: 1966208.7500
+ 308/1012 [========>.....................] - ETA: 1s - loss: 2147879.75002500 - val_loss: 1967460.7500
+ 291/1012 [=======>......................] - ETA: 1s - loss: 2272937.00002500 - val_loss: 1966054.3750
+ 220/1012 [=====>........................] - ETA: 1s - loss: 2096601.00005000 - val_loss: 1967485.7500
+ 192/1012 [====>.........................] - ETA: 1s - loss: 1986915.12507500 - val_loss: 1966460.6250
+ 166/1012 [===>..........................] - ETA: 1s - loss: 2175723.00007500 - val_loss: 1964524.8750
+1012/1012 [==============================] - 2s 2ms/step - loss: 2127490.5000 - val_loss: 1966138.5000
+Test Loss: 2061668.0=====================] - 2s 2ms/step - loss: 2127490.5000 - val_loss: 1966138.5000
+Test Loss: 2061668.0=====================] - 2s 2ms/step - loss: 2127490.5000 - val_loss: 1966138.5000

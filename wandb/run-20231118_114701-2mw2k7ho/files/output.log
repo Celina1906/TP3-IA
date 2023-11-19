@@ -1,0 +1,225 @@
+Epoch 1/50
+1011/1012 [============================>.] - ETA: 0s - loss: 2125565.0000
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+
+1011/1012 [============================>.] - ETA: 0s - loss: 2125565.0000INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+[34m[1mwandb[39m[22m: Adding directory to artifact (c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best)... Done. 0.0s
+1012/1012 [==============================] - 3s 3ms/step - loss: 2124940.7500 - val_loss: 1964125.2500
+Epoch 2/50
+1004/1012 [============================>.] - ETA: 0s - loss: 2122215.2500INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+1012/1012 [==============================] - 3s 3ms/step - loss: 2124281.2500 - val_loss: 1963364.3750
+Epoch 3/50
+1012/1012 [==============================] - 2s 2ms/step - loss: 2123385.7500 - val_loss: 1965230.5000
+Epoch 4/50
+
+ 986/1012 [============================>.] - ETA: 0s - loss: 2125602.2500
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+
+ 986/1012 [============================>.] - ETA: 0s - loss: 2125602.2500INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+1012/1012 [==============================] - 3s 3ms/step - loss: 2122989.7500 - val_loss: 1962959.7500
+Epoch 5/50
+1012/1012 [==============================] - 2s 2ms/step - loss: 2121711.7500 - val_loss: 1963634.6250
+Epoch 6/50
+ 595/1012 [================>.............] - ETA: 0s - loss: 2134335.7500
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+
+ 998/1012 [============================>.] - ETA: 0s - loss: 2126883.5000INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+1012/1012 [==============================] - 3s 3ms/step - loss: 2123178.0000 - val_loss: 1962545.7500
+Epoch 7/50
+1012/1012 [==============================] - 2s 2ms/step - loss: 2120553.5000 - val_loss: 1963529.2500
+Epoch 8/50
+1012/1012 [==============================] - 2s 2ms/step - loss: 2119893.0000 - val_loss: 1964821.5000
+Epoch 9/50
+  70/1012 [=>............................] - ETA: 1s - loss: 2069894.0000
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+
+
+ 975/1012 [===========================>..] - ETA: 0s - loss: 2112804.0000INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+1012/1012 [==============================] - 3s 3ms/step - loss: 2119234.2500 - val_loss: 1961705.7500
+Epoch 10/50
+1012/1012 [==============================] - 2s 2ms/step - loss: 2117714.0000 - val_loss: 1961972.0000
+Epoch 11/50
+ 976/1012 [===========================>..] - ETA: 0s - loss: 2111351.0000
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+1012/1012 [==============================] - 2s 2ms/step - loss: 2118170.5000 - val_loss: 1962812.2500
+Epoch 12/50
+ 997/1012 [============================>.] - ETA: 0s - loss: 2125963.7500
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+
+ 997/1012 [============================>.] - ETA: 0s - loss: 2125963.7500INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+1012/1012 [==============================] - 2s 2ms/step - loss: 2117744.5000 - val_loss: 1960765.3750
+Epoch 13/50
+1012/1012 [==============================] - 2s 2ms/step - loss: 2116870.2500 - val_loss: 1963679.5000
+Epoch 14/50
+1012/1012 [==============================] - 2s 2ms/step - loss: 2115114.2500 - val_loss: 1961421.3750
+Epoch 15/50
+ 173/1012 [====>.........................] - ETA: 1s - loss: 2121930.0000
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+
+ 982/1012 [============================>.] - ETA: 0s - loss: 2118617.7500INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+1012/1012 [==============================] - 2s 2ms/step - loss: 2114817.7500 - val_loss: 1960244.6250
+Epoch 16/50
+1012/1012 [==============================] - 2s 2ms/step - loss: 2114813.2500 - val_loss: 1960784.0000
+Epoch 17/50
+1012/1012 [==============================] - 1s 1ms/step - loss: 2114744.0000 - val_loss: 1960891.2500
+Epoch 18/50
+1012/1012 [==============================] - 2s 2ms/step - loss: 2112792.2500 - val_loss: 1962686.2500
+Epoch 19/50
+ 957/1012 [===========================>..] - ETA: 0s - loss: 2117063.7500
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+1012/1012 [==============================] - 2s 2ms/step - loss: 2113118.2500 - val_loss: 1962024.3750
+Epoch 20/50
+ 985/1012 [============================>.] - ETA: 0s - loss: 2101584.0000
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+
+ 985/1012 [============================>.] - ETA: 0s - loss: 2101584.0000INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+[34m[1mwandb[39m[22m: Adding directory to artifact (c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best)... Done. 0.0s
+1012/1012 [==============================] - 2s 2ms/step - loss: 2112092.0000 - val_loss: 1957541.7500
+Epoch 21/50
+1008/1012 [============================>.] - ETA: 0s - loss: 2106571.7500INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+1012/1012 [==============================] - 3s 3ms/step - loss: 2110757.5000 - val_loss: 1957431.8750
+Epoch 22/50
+1012/1012 [==============================] - 2s 2ms/step - loss: 2110037.0000 - val_loss: 1958451.5000
+Epoch 23/50
+ 780/1012 [======================>.......] - ETA: 0s - loss: 2123938.5000
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+
+ 973/1012 [===========================>..] - ETA: 0s - loss: 2107227.0000INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+[34m[1mwandb[39m[22m: Adding directory to artifact (c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best)... Done. 0.0s
+1012/1012 [==============================] - 2s 2ms/step - loss: 2109902.5000 - val_loss: 1956657.2500
+Epoch 24/50
+1004/1012 [============================>.] - ETA: 0s - loss: 2112330.5000INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+1012/1012 [==============================] - 2s 2ms/step - loss: 2108807.5000 - val_loss: 1955130.6250
+Epoch 25/50
+1012/1012 [==============================] - 2s 2ms/step - loss: 2108566.7500 - val_loss: 1958164.6250
+Epoch 26/50
+ 299/1012 [=======>......................] - ETA: 1s - loss: 2093552.7500
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+
+ 998/1012 [============================>.] - ETA: 0s - loss: 2108368.2500INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+[34m[1mwandb[39m[22m: Adding directory to artifact (c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best)... Done. 0.0s
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+[34m[1mwandb[39m[22m: Adding directory to artifact (c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best)... Done. 0.0s
+1012/1012 [==============================] - 3s 3ms/step - loss: 2108080.2500 - val_loss: 1954010.7500
+Epoch 27/50
+ 987/1012 [============================>.] - ETA: 0s - loss: 2110224.2500INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+1012/1012 [==============================] - 3s 3ms/step - loss: 2107611.5000 - val_loss: 1953448.6250
+Epoch 28/50
+1012/1012 [==============================] - 2s 2ms/step - loss: 2107467.0000 - val_loss: 1953547.6250
+Epoch 29/50
+1012/1012 [==============================] - 2s 2ms/step - loss: 2104643.5000 - val_loss: 1954029.5000
+Epoch 30/50
+ 925/1012 [==========================>...] - ETA: 0s - loss: 2112582.7500
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+
+ 969/1012 [===========================>..] - ETA: 0s - loss: 2112450.0000INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+1012/1012 [==============================] - 3s 3ms/step - loss: 2103789.7500 - val_loss: 1952143.0000
+Epoch 31/50
+1012/1012 [==============================] - 1s 1ms/step - loss: 2101646.2500 - val_loss: 1964759.5000
+Epoch 32/50
+1012/1012 [==============================] - 2s 2ms/step - loss: 2102887.2500 - val_loss: 1952499.3750
+Epoch 33/50
+ 604/1012 [================>.............] - ETA: 0s - loss: 2103387.2500
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+
+ 979/1012 [============================>.] - ETA: 0s - loss: 2106262.5000INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+[34m[1mwandb[39m[22m: Adding directory to artifact (c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best)... Done. 0.0s
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+[34m[1mwandb[39m[22m: Adding directory to artifact (c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best)... Done. 0.0s
+1012/1012 [==============================] - 3s 3ms/step - loss: 2103233.7500 - val_loss: 1951169.0000
+Epoch 34/50
+1008/1012 [============================>.] - ETA: 0s - loss: 2106007.5000INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+1012/1012 [==============================] - 2s 2ms/step - loss: 2102592.7500 - val_loss: 1949417.7500
+Epoch 35/50
+1012/1012 [==============================] - 2s 2ms/step - loss: 2102026.7500 - val_loss: 1949482.7500
+Epoch 36/50
+ 985/1012 [============================>.] - ETA: 0s - loss: 2104620.2500
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+
+ 985/1012 [============================>.] - ETA: 0s - loss: 2104620.2500INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+1012/1012 [==============================] - 2s 2ms/step - loss: 2100695.0000 - val_loss: 1948809.1250
+Epoch 37/50
+1012/1012 [==============================] - 2s 2ms/step - loss: 2099528.0000 - val_loss: 1949834.2500
+Epoch 38/50
+ 619/1012 [=================>............] - ETA: 0s - loss: 2121137.7500
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+
+ 983/1012 [============================>.] - ETA: 0s - loss: 2093258.8750INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+1012/1012 [==============================] - 3s 3ms/step - loss: 2099815.0000 - val_loss: 1946602.0000
+Epoch 39/50
+1012/1012 [==============================] - 2s 2ms/step - loss: 2098207.7500 - val_loss: 1948790.2500
+Epoch 40/50
+ 420/1012 [===========>..................] - ETA: 0s - loss: 2060720.1250
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+
+ 978/1012 [===========================>..] - ETA: 0s - loss: 2104026.2500INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+[34m[1mwandb[39m[22m: Adding directory to artifact (c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best)... Done. 0.0s
+1012/1012 [==============================] - 2s 2ms/step - loss: 2097686.2500 - val_loss: 1946289.2500
+Epoch 41/50
+ 995/1012 [============================>.] - ETA: 0s - loss: 2097235.5000INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+1012/1012 [==============================] - 2s 2ms/step - loss: 2097025.1250 - val_loss: 1945226.0000
+Epoch 42/50
+   1/1012 [..............................] - ETA: 0s - loss: 3860034.0000
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+ 967/1012 [===========================>..] - ETA: 0s - loss: 2087594.6250INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+Epoch 45/50==============================] - 2s 2ms/step - loss: 2095061.0000 - val_loss: 1945278.3750n to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+Epoch 44/50
+1012/1012 [==============================] - 2s 2ms/step - loss: 2093803.7500 - val_loss: 1944949.7500
+Epoch 45/50==============================] - 2s 2ms/step - loss: 2095061.0000 - val_loss: 1945278.3750n to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+1012/1012 [==============================] - 1s 1ms/step - loss: 2093214.3750 - val_loss: 1945800.8750
+Epoch 46/50
+ 779/1012 [======================>.......] - ETA: 0s - loss: 2101288.2500
+ 989/1012 [============================>.] - ETA: 0s - loss: 2085203.37503750 - val_loss: 1945800.8750
+ 989/1012 [============================>.] - ETA: 0s - loss: 2085203.37503750 - val_loss: 1945800.8750
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+1012/1012 [==============================] - 1s 1ms/step - loss: 2091269.8750 - val_loss: 1947400.5000
+1012/1012 [==============================] - 1s 1ms/step - loss: 2091269.8750 - val_loss: 1947400.5000
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+[34m[1mwandb[39m[22m: Adding directory to artifact (c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best)... Done. 0.0s
+Epoch 49/50==============================] - 1s 1ms/step - loss: 2091269.8750 - val_loss: 1947400.5000
+Epoch 49/50==============================] - 1s 1ms/step - loss: 2091269.8750 - val_loss: 1947400.5000
+c:\Users\celin\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3103: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best\assets
+[34m[1mwandb[39m[22m: Adding directory to artifact (c:\Users\celin\OneDrive\Escritorio\TP3-IA\wandb\run-20231118_114701-2mw2k7ho\files\model-best)... Done. 0.0s
+1012/1012 [==============================] - 3s 2ms/step - loss: 2090269.5000 - val_loss: 1938453.2500
